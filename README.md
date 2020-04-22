@@ -3,7 +3,6 @@
 Egy egyszerű, nyitott forrású applikáció Androidra **Android studio** felhasználásával. Az információkat az OpenWeatherMap-ról gyűjti a [publikus API-n keresztül]().
 
 ## Készült: 
-- Java
 - Nativescript (Javascript framework)
 - OpenWeatherMap API
 
