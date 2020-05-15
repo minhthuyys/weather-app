@@ -1,9 +1,9 @@
 # Idő előrejelző applikáció androidra
 ## Leírás:
-Egy egyszerű, nyitott forrású applikáció Androidra **React native (Expo)** felhasználásával. Az információkat az OpenWeatherMap-ról gyűjti a [publikus API-n keresztül]().
+Egy egyszerű, nyitott forrású applikáció Androidra **Android Studio** felhasználásával. Az információkat az OpenWeatherMap-ról gyűjti a [publikus API-n keresztül]().
 
 ## Készült: 
-- Nativescript (Javascript framework)
+- Nativescript (Java framework)
 - OpenWeatherMap API
 
 ## Tulajdonságok:
