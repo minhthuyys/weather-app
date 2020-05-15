@@ -9,7 +9,6 @@ Egy egyszerű, nyitott forrású applikáció Androidra **Android Studio** felha
 
 ## Tulajdonságok:
 - Egyszerű megjelenés
-- Kidolgozott 5/7 napos előrejelzés
 - Sok funkció
 - Minden várossal működik a világon
 
