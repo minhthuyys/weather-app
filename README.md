@@ -14,7 +14,7 @@ Egy egyszerű, nyitott forrású applikáció Androidra **Android Studio** felha
 - Minden várossal működik a világon
 
 ## A képernyőkép funkció 
-<img src="screenshots/screenshot1.PNG" width="300" height="400" />
-<img src="screenshots/screenshot2.PNG" width="300" height="400" />
-<img src="screenshots/screenshot3.PNG" width="300" height="400" />
+<img src="screenshots/screenshot1.PNG" width="400" height="400" />
+<img src="screenshots/screenshot2.PNG" width="400" height="400" />
+<img src="screenshots/screenshot3.PNG" width="400" height="400" />
 
