@@ -14,6 +14,6 @@ Egy egyszerű, nyitott forrású applikáció Androidra **Android Studio** felha
 - Minden várossal működik a világon
 
 ## A képernyőkép funkció 
-![Screen 1](screenshot/screenshot1.PNG)
-![Search Function](screenshot/screenshot1.PNG)
-![Updated](screenshot/screenshot1.PNG)
+![Screen 1](screenshots/screenshot1.PNG)
+![Search Function](screenshots/screenshot2.PNG)
+![Updated](screenshots/screenshot3.PNG)
