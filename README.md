@@ -6,6 +6,7 @@ Egy egyszerű, nyitott forrású applikáció Androidra **Android Studio** felha
 - Java
 - Nativescript (Javascript framework)
 - OpenWeatherMap API
+- GooglePlace API
 
 ## Tulajdonságok:
 - Egyszerű megjelenés
