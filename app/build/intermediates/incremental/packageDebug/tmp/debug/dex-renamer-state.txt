@@ -1,4 +1,4 @@
-#Fri May 15 22:56:46 CEST 2020
-base.0=C\:\\Users\\Bootj\\AndroidStudioProjects\\weather_2\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Sat May 16 12:35:53 CEST 2020
+base.0=C\:\\Users\\Bootj\\OneDrive\\Dokumentumok\\HOMEWORK\\weather-app\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

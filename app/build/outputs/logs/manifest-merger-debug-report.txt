@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:2:1-26:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
@@ -49,33 +49,33 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Bootj\.gradle\caches
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:4:5-66
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\dd95c9b0396d09716c787bf50e80fdef\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\dd95c9b0396d09716c787bf50e80fdef\jetified-play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:13:5-24:19
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:13:5-24:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\380cbbd0623e9b22e21961fc6ec82b14\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -107,37 +107,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Bo
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:9:9-50
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:9:9-50
 	android:icon
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:7:9-45
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:7:9-45
 	android:allowBackup
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.vietnam.weatherapp.MainActivity
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:13:9-21:20
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:13:9-21:20
 	android:theme
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:15:13-47
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:14:13-41
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml:19:27-74
 uses-sdk
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:7:5-44
 MERGED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:7:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
@@ -228,16 +228,16 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Bootj\.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Bootj\AndroidStudioProjects\weather_2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bootj\OneDrive\Dokumentumok\HOMEWORK\weather-app\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from [com.google.android.libraries.places:places:1.1.0] C:\Users\Bootj\.gradle\caches\transforms-2\files-2.1\047d96b132c8fd5fca8c5b4709ce3e20\jetified-places-1.1.0\AndroidManifest.xml:9:5-79
 	android:name

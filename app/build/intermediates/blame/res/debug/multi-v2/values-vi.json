@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Bootj\\AndroidStudioProjects\\weather_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
+            "outputFile": "C:\\Users\\Bootj\\OneDrive\\Dokumentumok\\HOMEWORK\\weather-app\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-vi\\values-vi.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Bootj\\.gradle\\caches\\transforms-2\\files-2.1\\cfadd13dabba2577d0ead2307f553a2e\\jetified-play-services-basement-16.2.0\\res\\values-vi\\values.xml",
