@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="api_search">AIzaSyCkFWuKKnzG56hJ2nz1XO73vY6Q06kfyvE</string>
+    <string name="api_weather">8118ed6ee68db2debfaaa5a44c832918</string>
+</resources>
